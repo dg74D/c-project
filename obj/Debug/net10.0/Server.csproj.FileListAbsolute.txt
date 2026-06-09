@@ -576,3 +576,4 @@ D:\דבורי גרינבוים\(2)\Server\obj\Debug\net10.0\refint\Server.dll
 D:\דבורי גרינבוים\(2)\Server\obj\Debug\net10.0\Server.pdb
 D:\דבורי גרינבוים\(2)\Server\obj\Debug\net10.0\Server.genruntimeconfig.cache
 D:\דבורי גרינבוים\(2)\Server\obj\Debug\net10.0\ref\Server.dll
+D:\דבורי גרינבוים\(2)\Server\obj\Debug\net10.0\Server.sourcelink.json
